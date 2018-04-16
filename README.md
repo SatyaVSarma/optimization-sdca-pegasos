@@ -1,6 +1,6 @@
 # Stochastic optimization and machine learning
 
-This repository contains a Jupyter notebook and a project report showing an implementation of two optimization algorithms to learn a linear SVM from scratch : Stochastic Dual Coordinate Ascent (SDCA) and Primal Estimated sub-GrAdient SOlver for SVM (PEGaSoS).
+This repository contains a Jupyter notebook and a project report showing an implementation of two optimization algorithms to learn a linear SVM from scratch : Stochastic Dual Coordinate Ascent (SDCA) and Primal Estimated sub-GrAdient SOlver for SVM (PEGaSoS). This was done as part of a school project at ENSAE in 2017.
 
 The report contains :
 
