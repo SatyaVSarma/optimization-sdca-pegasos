@@ -11,6 +11,7 @@ Main references :
 
 * Shalev-Shwartz S., Singer Y., Srebro N. and Cotter A. “PEGASOS : Primal Estimates sub-GrAdient SOlver
 for SVM.” Proceedings of the 24th international conference on Machine learning (2007)
+
 *Shalev-Shwartz S. and Zhang T. “Stochastic Dual Coordinate Ascent Methods for Regularized Loss Minimization.”
 Journal of Machine Learning Research 14 (2013).
 
